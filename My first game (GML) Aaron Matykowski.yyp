@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "1aa09092-cc6e-475a-b30c-d7db4eb795e8",
+            "Value": {
+                "id": "f0e1721f-8ecf-46e6-a55b-f67c7c599bcb",
+                "resourcePath": "sprites\\spr_enemy\\spr_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1e197978-ae7a-42cf-80ff-91b8178d3475",
             "Value": {
                 "id": "663dad23-686b-46bf-b509-6be092f1bf78",
                 "resourcePath": "views\\1e197978-ae7a-42cf-80ff-91b8178d3475.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "309124b8-8f1d-493a-a268-2d6a97813884",
+            "Value": {
+                "id": "7608ff4d-e48b-4aee-b4bf-bcbe577437c9",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
